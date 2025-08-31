@@ -1,0 +1,22 @@
+*{
+    color: #5f2727;
+}
+button
+{
+    padding: 16px;
+    font : 25px Times ;
+    color: rgb(47, 113, 118);
+    border: 2px solid #3f1c1c;
+    border-radius: 15%;
+    background-color: rgb(235, 207, 169);
+}
+button:hover 
+{
+    background-color: #3f1c1c;
+}
+select {
+    padding: 10px;
+     border: 2px solid #3f1c1c;
+    border-radius: 25%;
+    background-color: antiquewhite;
+}
